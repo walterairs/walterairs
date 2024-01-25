@@ -30,12 +30,12 @@ Hi there! 👋 I'm walterairs, a highly motivated third-year ICT student with a 
 
 ## 🔧 Skills
 - Programming Languages: Python, C, JavaScript
-- Web Development: HTML5, CSS3, Node.js, React
+- Web Development: HTML5, CSS3, Node.js, React, React Native
 - Operating Systems: Ubuntu, Kali Linux, Debian
-- Databases: SQLite, InfluxDB
+- Databases: SQLite, InfluxDB, Firestore
 - Tools & Version Control: Git, GitHub, GitLab
 - Math & Data Analysis: MATLAB, various python libaries
-- Languages: Finnish (native), English (excellent), Swedish (basics)
+- Languages: Finnish (native), English (excellent), Swedish (basics), Japanese (fundamentals)
 - Office Suite: Microsoft 365 (Word, PowerPoint, MS Planner)
 
 ## 🌟 Projects
