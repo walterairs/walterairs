@@ -46,3 +46,5 @@ on project related on cloud computing and human health improvement
 Feel free to reach out to me via LinkedIn for professional inquiries.
 You can also check out my latest code on GitHub.
 Let's connect and collaborate on exciting projects together! 🚀
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walterairs)](https://github.com/anuraghazra/github-readme-stats)
