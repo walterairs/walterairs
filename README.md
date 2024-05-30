@@ -15,11 +15,12 @@ Hi there! 👋 I'm `walterairs`, a highly motivated fourth-year ICT student with
 - Specialization: Embedded Software and IoT
 
 ## 💼 Experience:
-- R&D engineer | Brighthouse intelligence Ot
+
+### R&D engineer | Brighthouse intelligence Oy 📊
 - May 2023 - February 2024
 - Created maritime data analysis system
 
-- Associate Information Systems Technician | Wallac Oy
+### Associate Information Systems Technician | Wallac Oy 💻
 - May 2022 – June 2022
 - Provided technical support to co-workers and assisted with troubleshooting issues.
 
