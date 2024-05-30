@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi there! 👋 I'm walterairs, a highly motivated fourth-year ICT student with a strong passion for fullstack development, embedded software, and IoT engineering. I'm always on the lookout for opportunities to expand my knowledge and stay up-to-date with industry trends. In my academic and personal pursuits, I'm dedicated to honing my skills in these areas.
+Hi there! 👋 I'm `walterairs`, a highly motivated fourth-year ICT student with a strong passion for `fullstack` development, `embedded` software, and `IoT` engineering. I'm always on the lookout for opportunities to expand my knowledge and stay up-to-date with industry trends. In my academic and personal pursuits, I'm dedicated to honing my skills in these areas.
 
 ## Stats 📊
 
@@ -10,23 +10,27 @@ Hi there! 👋 I'm walterairs, a highly motivated fourth-year ICT student with a
 
 ## 🎓 Education:
 - Turku University of Applied Sciences
-- Expected Graduation Date: 31.07.2025
+- Expected Graduation Date: 31.07.2025 (or even fall of 2024)
 - Bachelor of Engineering in Information and Communication Technologies
 - Specialization: Embedded Software and IoT
 
 ## 💼 Experience:
+- R&D engineer | Brighthouse intelligence Ot
+- May 2023 - February 2024
+- Created maritime data analysis system
+
 - Associate Information Systems Technician | Wallac Oy
 - May 2022 – June 2022
 - Provided technical support to co-workers and assisted with troubleshooting issues.
 
 ## 🔧 Skills
-- Programming Languages: Python, C, JavaScript
-- Web Development: HTML5, CSS3, Node.js, React, React Native
-- Operating Systems: Ubuntu, Kali Linux, Debian
-- Databases: SQLite, InfluxDB, Firestore
-- Tools & Version Control: Git, GitHub, GitLab
-- Math & Data Analysis: MATLAB, various python libaries
-- Languages: Finnish (native), English (excellent), Swedish (basics), Japanese (fundamentals)
+- Programming Languages: `Python`, `C`, `JavaScript`
+- Web Development: `HTML5`, `CSS3`, `Node.js`, `React`, `React Native`, `expo`
+- Operating Systems: `Ubuntu`, `Kali Linux`, `Debian`
+- Databases: `SQLite`, `InfluxDB`, `Firestore`
+- Tools & Version Control: `Git`, `GitHub`, `GitLab`, `docker hub`
+- Math & Data Analysis: `MATLAB`, `matplotlib`, `sciPy`, `numPy`, `pandas`
+- Languages: Finnish (native), English (excellent), Swedish (basics), Japanese (basics)
 - Office Suite: Microsoft 365 (Word, PowerPoint, MS Planner)
 
 ## 🌟 Projects
