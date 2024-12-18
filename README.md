@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi there! 👋 I'm `walterairs`, a highly motivated fourth-year ICT student with a strong passion for `fullstack` development, `embedded` software, and `IoT` engineering. I'm always on the lookout for opportunities to expand my knowledge and stay up-to-date with industry trends. In my academic and personal pursuits, I'm dedicated to honing my skills in these areas.
+Hi there! 👋 I'm `walterairs`, an ICT engineer with a strong passion for `fullstack` development, `embedded` software, and `IoT` engineering. I'm always on the lookout for opportunities to expand my knowledge and stay up-to-date with industry trends. In my academic and personal pursuits, I'm dedicated to honing my skills in these areas.
 
 ## Stats 📊
 
