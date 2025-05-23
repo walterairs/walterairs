@@ -10,7 +10,7 @@ Hi there! 👋 I'm `walterairs`, an ICT engineer with a strong passion for `full
 
 ## 🎓 Education:
 - Turku University of Applied Sciences
-- Expected Graduation Date: 31.07.2025 (or even fall of 2024)
+- Graduation 2024 December
 - Bachelor of Engineering in Information and Communication Technologies
 - Specialization: Embedded Software and IoT
 
