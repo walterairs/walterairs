@@ -25,13 +25,13 @@ Hi there! 👋 I'm `walterairs`, an ICT engineer with a strong passion for `full
 - Provided technical support to co-workers and assisted with troubleshooting issues.
 
 ## 🔧 Skills
-- Programming Languages: `Python`, `C`, `JavaScript`
+- Programming Languages: `Python`, `C`, `JavaScript`, `TypeScript`, `C++`
 - Web Development: `HTML5`, `CSS3`, `Node.js`, `React`, `React Native`, `expo`
-- Operating Systems: `Ubuntu`, `Kali Linux`, `Debian`
-- Databases: `SQLite`, `InfluxDB`, `Firestore`
-- Tools & Version Control: `Git`, `GitHub`, `GitLab`, `docker hub`
+- Operating Systems: `Linux`, `Windows`
+- Databases: `SQLite`, `InfluxDB`, `Firestore`, `MongoDB`
+- Tools & Version Control: `Git`, `GitHub`, `GitLab`, `docker hub`, `GCP`
 - Math & Data Analysis: `MATLAB`, `matplotlib`, `sciPy`, `numPy`, `pandas`
-- Languages: Finnish (native), English (excellent), Swedish (basics), Japanese (basics)
+- Languages: Finnish (native), English (excellent), Swedish (basics), Japanese (N5)
 - Office Suite: Microsoft 365 (Word, PowerPoint, MS Planner)
 
 ## 🌟 Projects
