@@ -35,7 +35,7 @@ Hi there! 👋 I'm `walterairs`, an ICT engineer with a strong passion for `full
 - Databases: `SQLite`, `InfluxDB`, `Firestore`, `MongoDB`
 - Tools & Version Control: `Git`, `GitHub`, `GitLab`, `docker hub`, `GCP`
 - Math & Data Analysis: `MATLAB`, `matplotlib`, `sciPy`, `numPy`, `pandas`
-- Languages: Finnish (native), English (excellent), Swedish (basics), Japanese (N5)
+- Languages: Finnish (native), English (excellent), Swedish (basics), Japanese (N4)
 - Office Suite: Microsoft 365 (Word, PowerPoint, MS Planner)
 
 ## 🌟 Projects
