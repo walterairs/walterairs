@@ -4,7 +4,7 @@ Hi there! 👋 I'm `walterairs`, an ICT engineer with a strong passion for `full
 
 ## Stats 📊
 
-[![GitHub stats](https://github-readme-stats-xi-three-92.vercel.app/api?username=walterairs)](https://github.com/anuraghazra/github-readme-stats)  
+[![GitHub stats](https://github-readme-stats-xi-three-92.vercel.app/api?username=walterairs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-xi-three-92.vercel.app/api/top-langs/?username=walterairs)](https://github.com/anuraghazra/github-readme-stats)
 
 
